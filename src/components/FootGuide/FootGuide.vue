@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <div>
     <footer class="footer_guide">
       <span class="guide_item">
@@ -69,4 +70,17 @@
         margin-bottom 2px
         .iconfont
           font-size 22px
+=======
+    <div>FootGuide</div>
+</template>
+
+<script>
+    export default {
+        name: "FootGuide",
+    }
+</script>
+
+<style scoped>
+
+>>>>>>> e010b54849ea55324a4bd439fec218f2644a7a5c
 </style>

@@ -12,7 +12,10 @@ Vue.use(VueRouter)
 
 
 const router = new VueRouter({
+<<<<<<< HEAD
   mode: 'history',
+=======
+>>>>>>> e010b54849ea55324a4bd439fec218f2644a7a5c
   routes: [
     {
       path: '/mside',
@@ -36,7 +39,11 @@ const router = new VueRouter({
     },
     {
       path: '/',
+<<<<<<< HEAD
       redirect: '/mside'
+=======
+      redirect: '/MSide'
+>>>>>>> e010b54849ea55324a4bd439fec218f2644a7a5c
     }
   ]
 })

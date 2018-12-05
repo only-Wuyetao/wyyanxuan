@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <div>
     <header class="header">
       <div class="wrap">
@@ -396,4 +397,17 @@
                 .subTitle
                   color #7F7F7F
                   font-size .24rem
+=======
+
+</template>
+
+<script>
+    export default {
+        name: "MSide"
+    }
+</script>
+
+<style scoped>
+
+>>>>>>> e010b54849ea55324a4bd439fec218f2644a7a5c
 </style>

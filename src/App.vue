@@ -1,6 +1,10 @@
 <template>
   <div>
+<<<<<<< HEAD
     <router-view/>
+=======
+    <!--<router-view/>-->
+>>>>>>> e010b54849ea55324a4bd439fec218f2644a7a5c
     <FootGuide></FootGuide>
   </div>
 </template>
